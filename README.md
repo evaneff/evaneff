@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eva Neff</h1>
 <h3 align="center">A software engineer in Lehi, Utah.</h3>
 
-- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **evaneff@gmail.com**
 
