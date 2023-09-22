@@ -3,7 +3,6 @@
 
 Welcome to my GitHub profile! Here you'll find an overview of who I am, my technical skills, and the projects I've been working on. Feel free to reach out if you have any questions or want to collaborate on exciting projects.
 
-About Me
 I'm a passionate and motivated software engineer with a strong interest in web development. I thrive on solving complex problems and enjoy turning ideas into working software solutions.
 
 I have experience with a variety of technologies and tools. Here are some of my key skills:
