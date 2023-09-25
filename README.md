@@ -9,7 +9,6 @@ I'm always eager to learn and explore new technologies.
 
 Feel free to explore these projects to get a sense of my coding style and the types of challenges I've tackled.
 
-Open to Collaboration
 I'm always open to collaborating on interesting projects. If you have an idea, want to work together, or just want to connect, please don't hesitate to reach out. You can contact me through email or connect with me on LinkedIn.
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of software development together!
