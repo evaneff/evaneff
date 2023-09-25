@@ -7,11 +7,10 @@ I'm a passionate and motivated software engineer with a strong interest in web d
 
 I have experience with a variety of technologies and tools. Here are some of my key skills:
 
-Programming Languages: Java, JavaScript
-Web Development: Springboot
-Databases: DynamoDB
-DevOps and Tools: AWS
-Version Control: Git
+Programming Languages: Java, JavaScript<br>
+Databases: DynamoDB<br>
+Tools: AWS<br>
+
 I'm always eager to learn and explore new technologies, and I enjoy staying up-to-date with industry trends.
 
 Feel free to explore these projects to get a sense of my coding style and the types of challenges I've tackled.
