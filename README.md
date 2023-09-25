@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eva Neff</h1>
 <h3 align="center">A software engineer in Lehi, Utah.</h3>
 
-Welcome to my GitHub profile! Here you'll find an overview of who I am, my technical skills, and the projects I've been working on. Feel free to reach out if you have any questions or want to collaborate on exciting projects.
+Welcome to my GitHub profile! Here you'll find an overview of the projects I've been working on. Feel free to reach out if you have any questions or want to collaborate on exciting projects.
 
-I'm a passionate and motivated software engineer with a strong interest in web development. I thrive on solving complex problems and enjoy turning ideas into working software solutions.
+I'm a passionate and motivated software engineer. I thrive on solving complex problems and enjoy turning ideas into working software solutions.
 
-I have experience with a variety of technologies and tools. Here are some of my key skills:
-
-Programming Languages: Java, JavaScript<br>
-Databases: DynamoDB<br>
-Tools: AWS<br>
-
-I'm always eager to learn and explore new technologies, and I enjoy staying up-to-date with industry trends.
+I'm always eager to learn and explore new technologies.
 
 Feel free to explore these projects to get a sense of my coding style and the types of challenges I've tackled.
 
